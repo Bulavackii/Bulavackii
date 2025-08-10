@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="Философский камень веба"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" title="Мой волшебный посох"/>
+  <img src="https://laravel.com/img/logomark.min.svg" width="40" alt="Laravel" title="Мой посох цифровой алхимии" style="filter: hue-rotate(20deg)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" width="40" alt="Alpine.js" title="Домашний дух интерфейсов"/>
   🔥 <em>...и другие магические компоненты</em>
 </p>
