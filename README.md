@@ -56,7 +56,7 @@
 
 **Мои порталы:**
 - 📮 Голубиная почта: [visitorsec@gmail.com](mailto:visitorsec@gmail.com)
-- 🌐 Карта мира: [russiacms.ru](https://russiacms.ru)
+- 🌐 Карта мира: [rucms.com](https://rucms.com)
 - 🗃 Сокровищница знаний: [github.com/Bulavackii](https://github.com/Bulavackii)
 
 ---
