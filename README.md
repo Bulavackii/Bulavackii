@@ -6,7 +6,7 @@
 
 <p align="center">
   🧙‍♂️ Веб-алхимик &nbsp;•&nbsp; 🔮 Laravel-шаман &nbsp;•&nbsp; 🎚 UI/UX-провидец <br>
-  🌌 Создатель <a href="https://github.com/Bulavackii/Ru-CMS" target="_blank"><strong>RU CMS</strong></a> — <a href="https://russiacms.ru" target="_blank"><strong>russiacms.ru</strong></a> (мой Хогвартс для цифровых творцов)
+  🌌 Создатель <a href="https://github.com/Bulavackii/Ru-CMS" target="_blank"><strong>RU CMS</strong></a> — <a href="https://rucms.com" target="_blank"><strong>russiacms.ru</strong></a> (мой Хогвартс для цифровых творцов)
 </p>
 
 ---
