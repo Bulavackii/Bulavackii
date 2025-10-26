@@ -77,7 +77,7 @@
   </a>
   &nbsp;
   <a href="https://t.me/Bulavackii" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@ru_cms-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-@Bula_Bytes-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
