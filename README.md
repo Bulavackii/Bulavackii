@@ -1,24 +1,29 @@
-# 🌌 Дэн — Архитектор Цифровых Вселенных  
+# 🌌 Дэн Булов — Архитектор Цифровых Вселенных
 
 > *«Когда другие строят дома, я создаю законы физики для новых реальностей.»*
 
 ---
 
-## 👋 Привет, я Дэн
+## 🧑‍💻 Профессиональный профиль
 
-Я — веб-архитектор и создатель **[RU CMS](https://rucms.com)** — системы, где каждый модуль живёт как цифровой артефакт.  
-Работаю на пересечении кода, дизайна и философии интерфейсов.  
+**Web Architect | Full-Stack Developer | UI/UX-System Designer**
 
----
-
-## 🔭 Сейчас работаю над
-- 🧠 **RU CMS** — модульная экосистема нового поколения  
-- 🎨 **UI/UX-дизайн систем** для веб-проектов  
-- ⚙️ **Инфраструктура**: DevOps, Docker, NGINX, серверная оптимизация  
+Создатель **[RU CMS](https://rucms.com)** — модульной платформы, объединяющей эстетику, инженерную точность и архитектурную гибкость.  
+Моя специализация — построение цифровых экосистем, где код, дизайн и инфраструктура работают как единый организм.
 
 ---
 
-## 🧩 Технологический стек
+## 🚀 Текущие направления
+
+| Направление | Описание |
+|-------------|-----------|
+| 🧠 **RU CMS** | Разработка ядра и экосистемы модулей |
+| 🎨 **UI/UX-дизайн** | Создание интерфейсов с архитектурной логикой |
+| ⚙️ **Инфраструктура** | DevOps-оркестрация: Docker, NGINX, Ubuntu, Arch Linux |
+
+---
+
+## ⚙️ Технологический стек
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
@@ -37,66 +42,73 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux"/>
 </p>
 
-<p align="center">
-  💻 <strong>Backend:</strong> PHP • Laravel • MySQL • JWT  
-  <br>
-  🎨 <strong>Frontend:</strong> Alpine.js • React • Tailwind • SCSS • TinyMCE 7  
-  <br>
-  ⚙️ <strong>DevOps:</strong> Docker • NGINX • Apache • Ubuntu • Arch Linux  
-</p>
+| Категория | Технологии |
+|------------|-------------|
+| 💻 **Backend** | PHP • Laravel • MySQL • JWT |
+| 🎨 **Frontend** | React • Alpine.js • Tailwind • SCSS • TinyMCE 7 |
+| ⚙️ **DevOps** | Docker • NGINX • Apache • Ubuntu • Arch Linux |
+| 🧩 **Дополнительно** | REST API • CI/CD • Git • Performance Tuning |
 
 ---
 
-## 💼 Проекты
+## 💼 Основные проекты
 
-- 🚀 [**RU CMS**](https://github.com/Bulavackii/Ru-CMS) — модульная CMS, созданная с нуля  
-- 🌐 [**rucms.com**](https://rucms.com) — официальный портал проекта  
-- 🧪 Эксперименты с UI/UX и новыми архитектурными паттернами  
-
----
-
-## 🧠 Ценности
-> Качество интерфейса — это не дизайн, а форма уважения к пользователю.  
-> Чистый код — продолжение чистой мысли.  
-> Технология — лишь инструмент в руках идеи.
+| Проект | Описание | Ссылка |
+|--------|-----------|--------|
+| 🚀 **RU CMS** | Модульная CMS, созданная с нуля, ориентирована на архитектурную гибкость и визуальный контроль | [GitHub](https://github.com/Bulavackii/Ru-CMS) |
+| 🌐 **RU CMS Site** | Официальный портал проекта, UI/UX-демонстрация экосистемы | [rucms.com](https://rucms.com) |
+| 🧪 **Labs & Prototypes** | Эксперименты с архитектурой, мультиязычностью и реактивным UI | — |
 
 ---
 
-## 📫 Контакты
+## 🧭 Ценности и принципы
+
+> 🎯 **Ясность кода** — продолжение ясности мышления  
+> 💡 **Элегантность решений** — это инженерия, а не случайность  
+> 🌐 **Этика интерфейсов** — уважение к пользователю выражается в деталях  
+
+---
+
+## 📫 Контакты и ссылки
+
 <p align="center">
   <a href="mailto:visitorsec@gmail.com">
-    <img src="https://img.shields.io/badge/Email-visitorsec@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-visitorsec@gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Bulavackii">
-    <img src="https://img.shields.io/badge/GitHub-Bulavackii-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Bulavackii-181717?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
   <a href="https://rucms.com">
-    <img src="https://img.shields.io/badge/Website-rucms.com-2563eb?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-rucms.com-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://t.me/Bulavackii" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Bula_Bytes-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/Bula_Bytes" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Bula_Bytes-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/Bulavackii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Статистика  
+## 📊 GitHub-аналитика  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bulavackii&show_icons=true&theme=tokyonight&hide=prs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bulavackii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bulavackii&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bulavackii&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bulavackii&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bulavackii&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Создано с ♥ в <strong>Laravel</strong> и вдохновением кода</sub>
+  <sub>© 2025 | Дэн Булов — Архитектура цифровых миров. Создано с вдохновением и <strong>Laravel</strong>.</sub>
 </p>
